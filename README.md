@@ -18,7 +18,7 @@ En esta sección se presentan los artefactos de diseño y las validaciones técn
 ### 2. Diagrama de Componentes
 > Visualización de la organización y las dependencias entre los componentes de software.
 
-
+![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-03%20235418.png)
 
 ### 3. Pantallazos Pruebas Unitarias
 > Se realizaron pruebas de caja negra y blanca para asegurar la estabilidad de los módulos principales.
