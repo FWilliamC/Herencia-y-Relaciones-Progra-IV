@@ -23,7 +23,7 @@ En esta sección se presentan los artefactos de diseño y las validaciones técn
 ### 3. Pantallazos Pruebas Unitarias
 > Se realizaron pruebas de caja negra y blanca para asegurar la estabilidad de los módulos principales.
 
-![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-03%20232601.png)
+![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-04%20131229.png)
 ![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-03%20232601.png)
 ![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-03%20232601.png)
 
