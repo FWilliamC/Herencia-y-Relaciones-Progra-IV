@@ -12,7 +12,7 @@ En esta sección se presentan los artefactos de diseño y las validaciones técn
 ### 1. Diagrama de Clases
 > Representación de la estructura del sistema, sus atributos, métodos y las relaciones entre objetos.
 
-![Texto alternativo](ruta/relativa/a/la/imagen.png)
+![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-03%20232601.png)
 
 
 ### 2. Diagrama de Componentes
