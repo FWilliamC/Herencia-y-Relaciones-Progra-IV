@@ -37,7 +37,7 @@ En esta sección se presentan los artefactos de diseño y las validaciones técn
 ### 4. Pantallazos Debug
 > Evidencia del seguimiento de flujo de datos y manejo de excepciones durante el desarrollo.
 
-![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-04%20131401.png)
+![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-04%20131833.png)
 
 ![Texto alternativo](https://github.com/FWilliamC/Herencia-y-Relaciones-Progra-IV/blob/main/Captura%20de%20pantalla%202026-05-04%20131401.png)
 
